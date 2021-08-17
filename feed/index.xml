@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Produk Valia (Gosok &amp; Oles)</title>
+	<title>Home</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>COD (Bayar di Tempat)</description>
-	<lastBuildDate>Mon, 02 Aug 2021 07:04:19 +0000</lastBuildDate>
+	<description>Produk Disini Bisa COD (Bayar di Tempat)</description>
+	<lastBuildDate>Tue, 17 Aug 2021 16:08:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
